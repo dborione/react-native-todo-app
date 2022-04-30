@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^6.4.1",
+    "@react-navigation/native": "^6.0.10",
+    "react-native-screens": "^3.13.1"
+  }
+}
